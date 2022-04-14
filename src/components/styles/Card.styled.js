@@ -18,6 +18,10 @@ export const StyledCard = styled.div`
         flex: 1;
     }
 
+    &:hover {
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+    }
+
     @media(max-width: ${({theme}) => theme.mobile}) {
         flex-direction: column;
     }
