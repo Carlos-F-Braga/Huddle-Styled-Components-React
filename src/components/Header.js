@@ -14,7 +14,7 @@ export default function Header () {
             <Flex>
                 <div>
                     <h1>
-                        Construa a Comunidade que seus Fãs iram Amar!
+                        Construa a Comunidade que seus Fãs irão Amar!
                     </h1>
 
                     <p>
